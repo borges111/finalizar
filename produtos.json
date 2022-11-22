@@ -1,0 +1,35 @@
+[
+    {
+    "Id": 1,
+    "Nome": "x- oklahoma",
+    "img":"https://media.gazetadopovo.com.br/2021/05/24202047/hamburguer-janelabar-divulgacao-960x540.jpg",
+    "descricao": "pão brioche, 2 hamburgueres dde 120g, queijo cheddar, bacon, cebola ",
+    "historia": "uma invenção aonde era apenas um hamburger com carne, pão e queijo colocamos cebola para acrescentar",
+    "preco": "36,90R$"
+  },
+  {
+    "Id": 2,
+    "Nome": "x- Celtic",
+    "img": "",
+    "descricao": "pão brioche, 2 hamburgueres dde 150g, mix queijo, alface, tomate, cebola ",
+    "historia": "para trazer um novo sabor inovador",
+    "preco": "39,90R$"
+  },
+  {
+    "Id": 2,
+    "Nome": "x- Miami",
+    "img":"",
+    "descricao": "pão brioche, 2 hamburgueres dde 180g, queijo monterrey, bacon, picles de cebola ",
+    "historia": "uma sensação de realmentee sentir o sabor de miami",
+    "preco": "42,90R$"
+  },
+  {
+    "Id": 2,
+    "Nome": "x- brooklyn",
+    "img":"",
+    "descricao": "pão australiano, 2 hamburgueres dde 210g, queijo cheddar, bacon, cebola caramelizada",
+    "historia": "",
+    "preco": "46,90R$"
+  }
+  
+]
